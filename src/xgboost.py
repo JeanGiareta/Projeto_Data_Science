@@ -68,7 +68,7 @@ submission_df = pd.DataFrame({'Id': test_data['Id'], 'SalePrice': test_predictio
 # Salvando o arquivo de submissão
 submission_df.to_csv('submission.csv', index=False, header=True)
 
-# Restante do código para visualização (scatter plot, gráfico de resíduos, histograma) permanece inalterado.
+# scatter plot, gráfico de resíduos, histograma
 
 import matplotlib.pyplot as plt
 
