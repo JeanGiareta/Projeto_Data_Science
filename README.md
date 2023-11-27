@@ -8,9 +8,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 ## Conteúdo
 - **Pasta Raiz:**
   - Este diretório concentra todos os arquivos do projeto.
-- **Código Fonte:**
-  - O diretório 'codigo' contém o script principal, 'gerar_report.py', que realiza a análise exploratória de dados, gera visualizações e cria um relatório em Markdown.
-    
+
  - **Arquivos:**
   - A pasta 'Arquivos' armazena os dataSets utilizados para treinamento e teste do modelo
 
@@ -18,7 +16,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
   - A pasta 'scr'armazena o codigo fonte do projeto
  
 - **Relatório:**
-  - O arquivo 'report.md' é o relatório final do projeto, apresentando detalhes sobre o tema, URL no GitHub, dataset utilizado, modelos desenvolvidos e resultados obtidos, o mesmo fica na raiz.
+  - O arquivo 'README.md' é o relatório final do projeto, apresentando detalhes sobre o tema, URL no GitHub, dataset utilizado, modelos desenvolvidos e resultados obtidos, o mesmo fica na raiz.
 
 
 ## Configuração do Ambiente
@@ -28,3 +26,25 @@ Antes de começar, certifique-se de ter a biblioteca XGBoost instalada. Se ainda
 ````
 ## Resultados
 Os resultados do modelo são avaliados usando a métrica Root Mean Squared Error (RMSE).
+
+
+## Como Utilizar Este Repositório
+
+1. **Clonar o Repositório:**
+   ```bash
+   git clone https://github.com/JeanGiareta/Projeto_Data_Science.git
+   cd Projeto_Data_Science
+
+1. **Executar o Script:**
+   ```bash
+   python src/xgboost.py
+
+## Contribuições
+
+Contribuições e feedbacks são bem-vindas! Sinta-se à vontade para abrir issues e propor melhorias.
+
+Autor:
+Jean Francisco Giareta
+
+Contato:
+172959@upf.br
