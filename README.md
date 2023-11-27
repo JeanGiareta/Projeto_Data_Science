@@ -9,7 +9,7 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 - **Pasta Raiz:**
   - Este diretório concentra todos os arquivos do projeto.
 
- - **Arquivos:**
+- **Arquivos:**
   - A pasta 'Arquivos' armazena os dataSets utilizados para treinamento e teste do modelo
 
 - **src:**
