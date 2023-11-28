@@ -11,6 +11,9 @@ https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/
 
 - **Arquivos:**
   - A pasta 'Arquivos' armazena os dataSets utilizados para treinamento e teste do modelo
+ 
+- **Plots:**
+  - A pasta 'plots' armazena as imagens dos graficos gerados para validação do modelo
 
 - **src:**
   - A pasta 'scr'armazena o codigo fonte do projeto
@@ -69,12 +72,15 @@ O desempenho do modelo foi avaliado nos dados de validação usando a métrica R
 
 ### Gráfico de Dispersão: Valores Reais vs. Previsões
 O gráfico de dispersão representa a comparação entre os valores reais e as previsões do modelo nos dados de validação.
+![Gráfico de Dispersão: Valores Reais vs. Previsões](./plots/ReaisXPrevisto.png)
 
 ### Gráfico de Resíduos
 O gráfico de resíduos fornece insights sobre a distribuição dos erros do modelo. O eixo x representa as previsões, o eixo y representa os resíduos.
+![Gráfico de Resíduos](./plots/Residuos.png)
 
 ### Histograma dos Resíduos
 O histograma dos resíduos mostra a distribuição dos erros do modelo.
+![Histograma dos Resíduos](./plots/Histograma.png)
 
 ## Configuração do Ambiente
 Antes de começar, certifique-se de ter as bibliotecas necessarias instaladas. Se ainda não estiver instalada, você pode fazê-lo usando o comando:
