@@ -80,6 +80,7 @@ O histograma dos resíduos mostra a distribuição dos erros do modelo.
 Antes de começar, certifique-se de ter as bibliotecas necessarias instaladas. Se ainda não estiver instalada, você pode fazê-lo usando o comando:
 ```bash
 pip install xgboost
+pip install matplotlib
 pip install scikit-learn
 pip install pandas
 ````
