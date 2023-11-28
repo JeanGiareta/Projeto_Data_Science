@@ -71,7 +71,7 @@ O modelo foi treinado utilizando os dados de treino após o pré-processamento.
 O desempenho do modelo foi avaliado nos dados de validação usando a métrica Root Mean Squared Error (RMSE).
 
 ### Gráfico de Dispersão: Valores Reais vs. Previsões
-O gráfico de dispersão representa a comparação entre os valores reais e as previsões do modelo nos dados de validação.
+O gráfico de dispersão representa a comparação entre os valores reais e previsões do modelo.
 ![Gráfico de Dispersão: Valores Reais vs. Previsões](./plots/ReaisXPrevisto.png)
 
 ### Gráfico de Resíduos
