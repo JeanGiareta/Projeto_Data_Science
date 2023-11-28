@@ -99,7 +99,7 @@ pip install pandas
 
 2. **Executar o Script:**
    ```bash
-   python src/xgboost.py
+   python src/XGBoost_ex.py
 
 ## Contribuições
 
