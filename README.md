@@ -75,7 +75,7 @@ O gráfico de dispersão representa a comparação entre os valores reais e prev
 ![Gráfico de Dispersão: Valores Reais vs. Previsões](./plots/ReaisXPrevisto.png)
 
 ### Gráfico de Resíduos
-O gráfico de resíduos fornece insights sobre a distribuição dos erros do modelo. O eixo x representa as previsões, o eixo y representa os resíduos.
+O gráfico de resíduos fornece a distribuição dos erros do modelo. O eixo x representa as previsões, o eixo y representa os resíduos.
 ![Gráfico de Resíduos](./plots/Residuos.png)
 
 ### Histograma dos Resíduos
