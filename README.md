@@ -72,14 +72,17 @@ O desempenho do modelo foi avaliado nos dados de validação usando a métrica R
 
 ### Gráfico de Dispersão: Valores Reais vs. Previsões
 O gráfico de dispersão representa a comparação entre os valores reais e previsões do modelo.
+
 ![Gráfico de Dispersão: Valores Reais vs. Previsões](./plots/ReaisXPrevisto.png)
 
 ### Gráfico de Resíduos
 O gráfico de resíduos fornece a distribuição dos erros do modelo. O eixo x representa as previsões, o eixo y representa os resíduos.
+
 ![Gráfico de Resíduos](./plots/Residuos.png)
 
 ### Histograma dos Resíduos
 O histograma dos resíduos mostra a distribuição dos erros do modelo.
+
 ![Histograma dos Resíduos](./plots/Histograma.png)
 
 ## Configuração do Ambiente
