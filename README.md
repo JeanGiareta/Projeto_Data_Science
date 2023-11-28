@@ -77,7 +77,7 @@ O gráfico de resíduos fornece insights sobre a distribuição dos erros do mod
 O histograma dos resíduos mostra a distribuição dos erros do modelo.
 
 ## Configuração do Ambiente
-Antes de começar, certifique-se de ter a biblioteca XGBoost instalada. Se ainda não estiver instalada, você pode fazê-lo usando o comando:
+Antes de começar, certifique-se de ter as bibliotecas necessarias instaladas. Se ainda não estiver instalada, você pode fazê-lo usando o comando:
 ```bash
 pip install xgboost
 pip install scikit-learn
